@@ -2,3 +2,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yand3r3d3v&show_icons=true&locale=ru&theme=dark" alt="yand3r3d3v" /></p>
 
+<h1><small>Java/Python developer</small></h1>
+
