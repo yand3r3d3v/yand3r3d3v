@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Python Developer
+⚡ ...
 
 
 # 💻 Tech Stack:
