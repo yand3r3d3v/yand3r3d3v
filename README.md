@@ -2,7 +2,7 @@
 I'm a **DevOps enthusiast & SRE** currently managing infrastructure for university lab services. My day-to-day work involves keeping **Linux VMs** running, deploying containers, and ensuring services stay up.
 
 *   🛠️ **What I do:** Routine maintenance (updates, package management), configuring static networking, monitoring logs, and managing backups with custom rotation scripts.
-*   ️ **Automation:** Moving away from manual setups by writing **Ansible roles** to automate service deployment and configuration.
+*   ️⚙️ **Automation:** Moving away from manual setups by writing **Ansible roles** to automate service deployment and configuration.
 *   ☸️ **Kubernetes:** Currently running a cluster with an **Envoy API Gateway**. I've deployed **GitLab Runners** and **JupyterHub** for lab workflows.
 *   🚀 **Goals:** Deepening my understanding of **Kubernetes internals**, and contributing more to open source (started with K8s docs translation).
 *   🗣️ **Languages:** Russian / English
